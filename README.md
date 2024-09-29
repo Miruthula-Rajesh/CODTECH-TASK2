@@ -1,3 +1,5 @@
+Name: Miruthula Rajesh Company: CODTECH IT SOLUTIONS PVT.LTD Id: CT08DS7277 Domain: Java Programming Duration: 4 Weeks
+ABOUT THE CODE:
 Account Class:
 
 Stores account details and transaction history.
